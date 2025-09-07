@@ -14,11 +14,9 @@
 1. **Set up listener**:  
    ```bash---
 
-### **🔐 Why This Works on Windows 11**  
-- **Bypasses PowerShell restrictions** with `-W Hidden`.  
-- **No disk writes** (memory-only payload).  
-- **HTB-friendly** (works over VPN).  
-
-Would you like a **more advanced version** (e.g., **keylogger**, **Meterpreter**, or **auto-UAC bypass**)? Let me know! 🚀
+### **🔐  Windows 11**  
+- **Bypasses PowerShell restrictions**
+(memory-only payload).  
+(works over VPN).  
 
 
